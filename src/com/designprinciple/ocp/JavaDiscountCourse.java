@@ -1,4 +1,4 @@
-package com.principle.ocp;
+package com.designprinciple.ocp;
 
 /**
  * @author:tianhaolin
